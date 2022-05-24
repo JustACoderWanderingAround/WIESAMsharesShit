@@ -1,4 +1,4 @@
 #include <iostream>
 int main (){
-    std::cout << "What the hell am I doing?\n";
+    std::cout << "This is an example cplusplusfile. I will update it later.\n";
 }
